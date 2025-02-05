@@ -24,8 +24,8 @@ The app offers real-time messaging, allowing users to chat instantly without ref
 
 ![Image](https://github.com/user-attachments/assets/655e8925-89ea-439b-b821-3074c5162cdc)
 
-![Image](https://github.com/user-attachments/assets/ae6493a3-e7ba-4fc3-ab85-f17040486904)
-
 ![Image](https://github.com/user-attachments/assets/3c20b783-9c1d-44d2-b158-3f2bc2a45fe9)
+
+![Image](https://github.com/user-attachments/assets/ae6493a3-e7ba-4fc3-ab85-f17040486904)
 
 ![Image](https://github.com/user-attachments/assets/f0e18e1c-e706-4e61-928d-926eab42cb48)
