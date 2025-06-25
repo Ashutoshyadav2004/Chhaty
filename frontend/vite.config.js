@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "https://chhaty.vercel.app",
+        target: "https://chhaty-backend.vercel.app",
         changeOrigin: true,
       },
     },
